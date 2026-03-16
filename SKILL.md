@@ -5,7 +5,7 @@ version: 1.0.0
 metadata:
   clawdbot:
     emoji: "📊"
-    homepage: https://github.com/alternativepartners/salesforce-reporting-copilot
+    homepage: https://github.com/breynol01/salesforce-reporting-copilot
     requires:
       bins:
         - sf
